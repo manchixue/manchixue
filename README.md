@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=manchixue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manchixue&show_icons=true&theme=radical&layout=compact&hide=html,css&hide_border=true&icon_color=79ff97&text_color=fff&bg_color=7373a8&title_color=fff&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuemanchi&show_icons=true&theme=radical&layout=compact&hide=html,css&hide_border=true&icon_color=79ff97&text_color=fff&bg_color=7373a8&title_color=fff&langs_count=6)
 
 <!--
 **manchixue/manchixue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
