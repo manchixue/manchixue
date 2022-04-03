@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=manchixue)
+![](https://github-readme-stats.vercel.app/api?username=xuemanchi)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuemanchi&show_icons=true&theme=radical&layout=compact&hide=html,css&hide_border=true&icon_color=79ff97&text_color=fff&bg_color=7373a8&title_color=fff&langs_count=6)
 
